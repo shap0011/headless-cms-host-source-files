@@ -1,3 +1,20 @@
+# Headless CMS group project
+The repository hosts the source files for the Headless CMS
+
+## Team
+- Olga Durham
+- Izekor Morgan
+- Maxim Simonov
+
+## Type of review site
+- The Movies Review Site
+
+## Headless CMS tool choice
+- Strapi
+
+## Frontend tool
+- VitePress static site generator
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
